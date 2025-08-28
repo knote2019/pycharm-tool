@@ -2,7 +2,7 @@
   <component name="BookmarksManager">
     <option name="groups">
       <GroupState>
-        <option name="name" value="pytest-project" />
+        <option name="name" value="pytest-tool" />
       </GroupState>
     </option>
   </component>
@@ -50,7 +50,7 @@
   </component>
   <component name="IdeDocumentHistory"><![CDATA[{
   "changedPaths": [
-    "/root/pytest-project/test/test_case.py"
+    "/root/pytest-tool/test/test_case.py"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -78,28 +78,28 @@
         <subPane>
           <expand>
             <path>
-              <item name="pytest-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///root/pytest-project}" type="462c0819:PsiDirectoryNode" />
+              <item name="pytest-tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///root/pytest-tool}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pytest-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///root/pytest-project}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///root/pytest-project/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="pytest-tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///root/pytest-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///root/pytest-tool/test}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
           <presentation>
             <attributes />
-            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="pytest-project" />
-            <item name="pytest-project" type="b2602c69:ProjectViewProjectNode" />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="pytest-tool" />
+            <item name="pytest-tool" type="b2602c69:ProjectViewProjectNode" />
             <presentation>
               <attributes>
                 <map>
                   <entry key="filePath" value="$PROJECT_DIR$" />
                 </map>
               </attributes>
-              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pytest-project" />
-              <item name="dir{file:///root/pytest-project}" type="462c0819:PsiDirectoryNode" />
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pytest-tool" />
+              <item name="dir{file:///root/pytest-tool}" type="462c0819:PsiDirectoryNode" />
               <presentation>
                 <attributes>
                   <map>
@@ -107,7 +107,7 @@
                   </map>
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
-                <item name="dir{file:///root/pytest-project/test}" type="462c0819:PsiDirectoryNode" />
+                <item name="dir{file:///root/pytest-tool/test}" type="462c0819:PsiDirectoryNode" />
                 <presentation>
                   <attributes>
                     <map>
