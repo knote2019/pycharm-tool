@@ -1,1 +1,1 @@
-# pytest-project.
+# pytest-tool.
