@@ -3,6 +3,8 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/pytest-project" value="true" />
+        <entry key="$USER_HOME$/pytest-tool" value="true" />
+        <entry key="/tmp/pytest-project9483094744520554707" value="true" />
       </map>
     </option>
   </component>

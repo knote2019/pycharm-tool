@@ -1,28 +1,25 @@
 <application>
   <component name="ActionsLocalSummary">
-    <e n="$Undo">
-      <i c="1" l="1756373361487" />
-    </e>
     <e n="Annotate">
       <i c="1" l="1755839447853" />
     </e>
     <e n="EditCustomVmOptions">
       <i c="1" l="1755838724042" />
     </e>
-    <e n="EditorDeleteLine">
-      <i c="1" l="1756373360682" />
+    <e n="EditorBackSpace">
+      <i c="2" l="1756375771702" />
     </e>
     <e n="EditorPaste">
       <i c="4" l="1755855590922" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1756375792396" />
     </e>
     <e n="Run">
       <i c="1" l="1755838593864" />
     </e>
     <e n="RunClass">
-      <i c="4" l="1756373356949" />
-    </e>
-    <e n="SaveAll">
-      <i c="1" l="1756373362678" />
+      <i c="2" l="1755855278235" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="4" l="1755839173410" />
@@ -31,10 +28,13 @@
       <i c="9" l="1755855573149" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
-      <i c="1" l="1755838457820" />
+      <i c="2" l="1756375756043" />
     </e>
     <e n="WelcomeScreen.Plugins">
       <i c="3" l="1755839176173" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1756375708872" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="4" l="1755839591775" />
@@ -46,10 +46,10 @@
       <i c="3" l="1755855446083" />
     </e>
     <e n="com.intellij.ide.ui.customization.CustomizableActionsPanel$RemoveAction">
-      <i c="11" l="1756373313503" />
+      <i c="11" l="1756375810136" />
     </e>
     <e n="com.intellij.ide.ui.customization.CustomizationUtil$MyDumbAction">
-      <i c="4" l="1756373309410" />
+      <i c="4" l="1756375805271" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1755839580979" />
@@ -68,9 +68,6 @@
     </e>
     <e n="com.intellij.toolWindow.MoreSquareStripeButton$createPopupGroup$1">
       <i c="1" l="1755838928132" />
-    </e>
-    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="1" l="1756373323125" />
     </e>
     <e n="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty">
       <i c="1" l="1755855281017" />

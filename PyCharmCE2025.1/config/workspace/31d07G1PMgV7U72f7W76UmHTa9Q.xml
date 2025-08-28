@@ -2,7 +2,7 @@
   <component name="BookmarksManager">
     <option name="groups">
       <GroupState>
-        <option name="name" value="pytest-tool" />
+        <option name="name" value="pytest-project" />
       </GroupState>
     </option>
   </component>
@@ -12,7 +12,7 @@
         <entry file="file://$PROJECT_DIR$/test/test_case.py">
           <provider editor-type-id="text-editor" selected="true">
             <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -36,7 +36,7 @@
     },
     "Python": {
       "usageCount": 3,
-      "lastUsed": 1756373303482
+      "lastUsed": 1756375801463
     }
   }
 }]]></component>
@@ -48,11 +48,7 @@
       <replace />
     </replaceStrings>
   </component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/root/pytest-tool/test/test_case.py"
-  ]
-}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -65,7 +61,7 @@
       <summary usageCount="1" lastUsage="1755838474380" />
     </language>
     <language id="Python">
-      <summary usageCount="3" lastUsage="1756373303485" />
+      <summary usageCount="3" lastUsage="1756375801465" />
     </language>
     <language id="TEXT">
       <summary usageCount="1" lastUsage="1755838724100" />
@@ -174,9 +170,9 @@
   <component name="RunConfigurationStartHistory">
     <history>
       <element setting="Python tests.Python tests in test_case.py" />
-      <element setting="Python.test_case" />
       <element setting="Python tests.Python tests for test_case.test_case2" />
       <element setting="Python tests.Python tests for test_case.test_case1" />
+      <element setting="Python.test_case" />
     </history>
   </component>
   <component name="TestHistory">
@@ -198,15 +194,12 @@
     <history-entry file=" - 2025.08.22 at 09h 34m 38s.xml">
       <configuration name="" configurationId="tests" />
     </history-entry>
-    <history-entry file=" - 2025.08.28 at 09h 29m 17s.xml">
-      <configuration name="" configurationId="tests" />
-    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10952194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18240595" />
       <window_info id="Commit" order="1" show_stripe_button="false" weight="0.25" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.18240595" />
+      <window_info active="true" id="Structure" order="2" side_tool="true" visible="true" weight="0.18240595" />
       <window_info id="Pull Requests" order="3" show_stripe_button="false" weight="0.18226439" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -215,19 +208,19 @@
       <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Packages" order="5" show_stripe_button="false" weight="0.1" />
       <window_info anchor="bottom" id="Python Console" order="6" show_stripe_button="false" weight="0.1" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.3296837" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.3296837" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" show_stripe_button="false" weight="0.33017015" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Plots" order="5" weight="0.1" />
-      <unified_weights bottom="0.3296837" left="0.10952194" right="0.33017015" />
+      <unified_weights bottom="0.3296837" left="0.18240595" right="0.33017015" />
     </layoutV2>
     <recentWindows>
+      <value>Project</value>
       <value>Run</value>
       <value>Structure</value>
-      <value>Project</value>
       <value>Pull Requests</value>
       <value>AIAssistant</value>
     </recentWindows>
@@ -238,26 +231,26 @@
       <screen x="0" y="27" width="2552" height="1257" />
     </state>
     <state x="1103" y="364" width="469" height="585" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.27.2552.1257@0.27.2552.1257" timestamp="1755855484218" />
-    <state width="2470" height="364" key="GridCell.Tab.0.bottom" timestamp="1756373357093">
+    <state width="2470" height="364" key="GridCell.Tab.0.bottom" timestamp="1755855601130">
       <screen x="0" y="27" width="2552" height="1257" />
     </state>
     <state width="1446" height="206" key="GridCell.Tab.0.bottom/0.27.1528.777@0.27.1528.777" timestamp="1755839606896" />
-    <state width="2470" height="364" key="GridCell.Tab.0.bottom/0.27.2552.1257@0.27.2552.1257" timestamp="1756373357093" />
-    <state width="2470" height="364" key="GridCell.Tab.0.center" timestamp="1756373357093">
+    <state width="2470" height="364" key="GridCell.Tab.0.bottom/0.27.2552.1257@0.27.2552.1257" timestamp="1755855601130" />
+    <state width="2470" height="364" key="GridCell.Tab.0.center" timestamp="1755855601130">
       <screen x="0" y="27" width="2552" height="1257" />
     </state>
     <state width="1446" height="206" key="GridCell.Tab.0.center/0.27.1528.777@0.27.1528.777" timestamp="1755839606896" />
-    <state width="2470" height="364" key="GridCell.Tab.0.center/0.27.2552.1257@0.27.2552.1257" timestamp="1756373357093" />
-    <state width="2470" height="364" key="GridCell.Tab.0.left" timestamp="1756373357092">
+    <state width="2470" height="364" key="GridCell.Tab.0.center/0.27.2552.1257@0.27.2552.1257" timestamp="1755855601130" />
+    <state width="2470" height="364" key="GridCell.Tab.0.left" timestamp="1755855601130">
       <screen x="0" y="27" width="2552" height="1257" />
     </state>
     <state width="1446" height="206" key="GridCell.Tab.0.left/0.27.1528.777@0.27.1528.777" timestamp="1755839606896" />
-    <state width="2470" height="364" key="GridCell.Tab.0.left/0.27.2552.1257@0.27.2552.1257" timestamp="1756373357092" />
-    <state width="2470" height="364" key="GridCell.Tab.0.right" timestamp="1756373357093">
+    <state width="2470" height="364" key="GridCell.Tab.0.left/0.27.2552.1257@0.27.2552.1257" timestamp="1755855601130" />
+    <state width="2470" height="364" key="GridCell.Tab.0.right" timestamp="1755855601130">
       <screen x="0" y="27" width="2552" height="1257" />
     </state>
     <state width="1446" height="206" key="GridCell.Tab.0.right/0.27.1528.777@0.27.1528.777" timestamp="1755839606896" />
-    <state width="2470" height="364" key="GridCell.Tab.0.right/0.27.2552.1257@0.27.2552.1257" timestamp="1756373357093" />
+    <state width="2470" height="364" key="GridCell.Tab.0.right/0.27.2552.1257@0.27.2552.1257" timestamp="1755855601130" />
     <state x="448" y="64" width="992" height="734" key="SettingsEditor" timestamp="1755855597036">
       <screen x="0" y="27" width="2552" height="1257" />
     </state>
@@ -276,7 +269,7 @@
     <entry file="file://$PROJECT_DIR$/test/test_case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

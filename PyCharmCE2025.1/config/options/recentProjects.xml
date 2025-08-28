@@ -2,24 +2,40 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/pytest-project">
+        <entry key="/tmp/pytest-project9483094744520554707">
           <value>
-            <RecentProjectMetaInfo frameTitle="pytest-project – test_case.py" opened="true" projectWorkspaceId="31d07G1PMgV7U72f7W76UmHTa9Q">
-              <option name="activationTimestamp" value="1756373315972" />
+            <RecentProjectMetaInfo frameTitle="pytest-project" projectWorkspaceId="31uZAVNLcVxETAYLYZvnqmRIW77">
+              <option name="activationTimestamp" value="1756375799161" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-251.26927.90" />
+              <option name="buildTimestamp" value="1752134100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="576" y="155" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1756375774940" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pytest-tool">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pytest-tool – test_case.py" opened="true" projectWorkspaceId="31d07G1PMgV7U72f7W76UmHTa9Q">
+              <option name="activationTimestamp" value="1756375824527" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-251.26927.90" />
               <option name="buildTimestamp" value="1752134100000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="0" y="27" width="2552" height="1257" extendedState="6" />
+              <frame x="-5" y="22" width="2562" height="1267" extendedState="6" />
               <option name="productionCode" value="PC" />
-              <option name="projectOpenTimestamp" value="1755838472688" />
+              <option name="projectOpenTimestamp" value="1756375801443" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/pytest-project" />
+    <option name="lastOpenedProject" value="$USER_HOME$/pytest-tool" />
   </component>
 </application>

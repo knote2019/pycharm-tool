@@ -10,16 +10,18 @@
     <size key="GridCell.Tab.0.bottom.0.0.2552.1284" width="2470" height="364" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="27" width="2552" height="1257" extendedState="6" />
+    <frame x="-5" y="22" width="2562" height="1267" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="547" y="171" width="434" height="492" key="FileChooserDialogImpl" timestamp="1755838468150">
-      <screen x="0" y="27" width="1528" height="777" />
+    <state x="914" y="260" width="434" height="492" key="FileChooserDialogImpl" timestamp="1756375774185">
+      <screen x="0" y="27" width="2552" height="1257" />
     </state>
     <state x="547" y="171" width="434" height="492" key="FileChooserDialogImpl/0.27.1528.777" timestamp="1755838468150" />
-    <state x="1133" y="462" width="1538" height="787" key="WELCOME_SCREEN" timestamp="1755838455693">
-      <screen x="0" y="27" width="1528" height="777" />
+    <state x="914" y="260" key="FileChooserDialogImpl/0.27.2552.1257" timestamp="1756375774185" />
+    <state x="1276" y="655" width="2552" height="1257" key="WELCOME_SCREEN" timestamp="1756375700503">
+      <screen x="0" y="27" width="2552" height="1257" />
     </state>
     <state x="1133" y="462" width="1538" height="787" key="WELCOME_SCREEN/0.27.1528.777" timestamp="1755838455693" />
+    <state x="1276" y="655" width="2552" height="1257" key="WELCOME_SCREEN/0.27.2552.1257" timestamp="1756375700503" />
   </component>
 </application>
