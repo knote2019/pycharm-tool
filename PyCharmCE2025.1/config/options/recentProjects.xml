@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/pytest-project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pytest-project – test_case.py" opened="true" projectWorkspaceId="31d07G1PMgV7U72f7W76UmHTa9Q">
+              <option name="activationTimestamp" value="1756373315972" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-251.26927.90" />
+              <option name="buildTimestamp" value="1752134100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="27" width="2552" height="1257" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1755838472688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/pytest-project" />
+  </component>
+</application>

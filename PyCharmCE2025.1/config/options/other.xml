@@ -1,0 +1,59 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "MarketplacePluginsSearchHistory": "CI Aid for GitLab\neclipse keymap\nDracula VSCode",
+    "NextRunPlatformUpdateBuild": "PC-252.23892.515",
+    "NextRunPlatformUpdateSelfBuild": "PC-251.26927.90",
+    "NextRunPlatformUpdateVersion": "2025.2.0.1",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "PythonUnitTestRunnerSupport.hidePassedTests": "false",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.26927.90",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "4",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ift.hide.welcome.screen.promo": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/root/pytest-project",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dracula VSCode",
+    "registry.to.advanced.settings.migration.build": "PC-251.26927.90",
+    "terminal.gen.one.option.visible": "false",
+    "whats.new.last.shown.version": "2025-1.3.1-26927-6f065183c835868e278363490753d1b84b4aeb30"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/root/pytest-project"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

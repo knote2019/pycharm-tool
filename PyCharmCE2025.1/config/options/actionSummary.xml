@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1756373361487" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1755839447853" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1755838724042" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1756373360682" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1755855590922" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1755838593864" />
+    </e>
+    <e n="RunClass">
+      <i c="4" l="1756373356949" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1756373362678" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="4" l="1755839173410" />
+    </e>
+    <e n="ShowSettings">
+      <i c="9" l="1755855573149" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1755838457820" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="3" l="1755839176173" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="4" l="1755839591775" />
+    </e>
+    <e n="com.intellij.ide.ui.customization.CustomizableActionsPanel$AddActionActionTreeSelectionAction">
+      <i c="4" l="1755855461922" />
+    </e>
+    <e n="com.intellij.ide.ui.customization.CustomizableActionsPanel$MoveUpAction">
+      <i c="3" l="1755855446083" />
+    </e>
+    <e n="com.intellij.ide.ui.customization.CustomizableActionsPanel$RemoveAction">
+      <i c="11" l="1756373313503" />
+    </e>
+    <e n="com.intellij.ide.ui.customization.CustomizationUtil$MyDumbAction">
+      <i c="4" l="1756373309410" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="1" l="1755839580979" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1755838732749" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.HideAction">
+      <i c="7" l="1755838945290" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="6" l="1755838954205" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="13" l="1755855263622" />
+    </e>
+    <e n="com.intellij.toolWindow.MoreSquareStripeButton$createPopupGroup$1">
+      <i c="1" l="1755838928132" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1756373323125" />
+    </e>
+    <e n="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty">
+      <i c="1" l="1755855281017" />
+    </e>
+  </component>
+</application>
